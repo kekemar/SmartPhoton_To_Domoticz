@@ -1,4 +1,4 @@
-# SmartPhoton_To_Domoticz
+# SmartPhoton Vers Domoticz
 Script bash de récupération des données MQTT de SmartPhoton et envoi vers l'API de Domoticz
 
 # Préparation d'une VM
