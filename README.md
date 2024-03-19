@@ -18,7 +18,7 @@ export VISUAL=nano; crontab -e
 ```
 
 # Dans Domoticz
-Si votre Domoticz est dans un VM différente, il faut également installer mosquitto-clients
+Si votre Domoticz est dans une VM différente, il faut également installer mosquitto-clients
 ```
 apt install mosquitto-clients
 ```
