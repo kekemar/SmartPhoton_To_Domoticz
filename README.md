@@ -33,3 +33,4 @@ if devicechanged['Mode Onduleur'] == 'SBU' then
 end
    
 return commandArray
+
