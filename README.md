@@ -1,6 +1,8 @@
 # SmartPhoton vers Domoticz
 Script bash de récupération des données MQTT de SmartPhoton et envoi vers l'API de Domoticz
 
+![Domoticz](https://github.com/kekemar/SmartPhoton_To_Domoticz/blob/main/Domoticz.png)
+
 # Préparation d'une VM
 Copier fichier solar.sh dans /root/
 ```
